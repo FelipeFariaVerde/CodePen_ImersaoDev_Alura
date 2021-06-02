@@ -3,7 +3,10 @@ Com o uso da plataforma web: **CodePen**, a Imersão_Dev da Alura é um "curso" 
 
 <br> 💡 **E posso dizer sim! Que aprendi.** <br><br>
 
+
 ![image](https://user-images.githubusercontent.com/80851038/120408082-af2af880-c324-11eb-942a-dd46e147956b.png)
+![image](https://user-images.githubusercontent.com/80851038/120408964-683e0280-c326-11eb-97d8-1674e3b2dee3.png)
+
 
 ### 🌐 Certificard
 **Link:** https://codepen.io/felpsfaria/full/mdRXwJa
